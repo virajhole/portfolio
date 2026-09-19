@@ -1,5 +1,5 @@
 export const profile = {
-  name: "Viraj Vasant Hole",
+  name: "Viraj Hole",
   initials: "VH",
   title: "Full Stack Developer",
   focus: "Odoo ERP · Java/Spring · React",
@@ -14,8 +14,8 @@ export const experience = [
   {
     role: "Full Stack Developer (Odoo)",
     org: "Odoo India",
-    location: "Ahmednagar, Maharashtra",
-    period: "Mar 2025 — Present",
+    location: "Gandinagar, Gujarat",
+    period: "Mar 2026 — Present",
     points: [
       "Develop and customise Odoo modules using Python, XML, OWL, and JavaScript to meet business requirements.",
       "Build and extend Odoo backend models, views (Form, Tree, Kanban), wizards, and server actions.",
@@ -28,8 +28,8 @@ export const experience = [
   {
     role: "Java Developer",
     org: "Mangosoft Technologies Pvt. Ltd.",
-    location: "Ahmednagar, Maharashtra",
-    period: "Nov 2024 — Mar 2025",
+    location: "Pune, Maharashtra",
+    period: "Nov 2024 — Mar 2026",
     points: [
       "Developed and maintained web applications using Java, Spring Boot, and RESTful APIs.",
       "Integrated frontend technologies (React.js, HTML, CSS) with backend services.",
