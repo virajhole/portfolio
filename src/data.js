@@ -8,7 +8,7 @@ export const profile = {
   phone: "+91 7774829155",
   summary:
     "Results-driven full stack developer building scalable business applications across Odoo ERP, Java/Spring, and React. Comfortable owning a feature from data model to UI — custom Odoo modules, REST APIs, and the frontends that sit on top of them.",
-}
+};
 
 export const experience = [
   {
@@ -37,7 +37,7 @@ export const experience = [
       "Applied design patterns (MVC, Singleton, Factory) within Agile ceremonies and code reviews.",
     ],
   },
-]
+];
 
 export const projects = [
   {
@@ -73,7 +73,7 @@ export const projects = [
       "Delivered across the full SDLC within an Agile team.",
     ],
   },
-]
+];
 
 export const skills = [
   {
@@ -83,7 +83,7 @@ export const skills = [
   {
     group: "ERP / Frameworks",
     items: [
-      "Odoo 16/17 (Full Stack)",
+      "Odoo (Full Stack)",
       "Spring Boot",
       "Spring MVC",
       "Spring Data JPA",
@@ -102,9 +102,19 @@ export const skills = [
   },
   {
     group: "Tools",
-    items: ["IntelliJ IDEA", "Eclipse", "STS", "VS Code", "Maven", "Apache Tomcat", "Git", "GitHub", "Bitbucket"],
+    items: [
+      "IntelliJ IDEA",
+      "Eclipse",
+      "STS",
+      "VS Code",
+      "Maven",
+      "Apache Tomcat",
+      "Git",
+      "GitHub",
+      "Bitbucket",
+    ],
   },
-]
+];
 
 export const education = [
   {
@@ -117,9 +127,9 @@ export const education = [
     school: "Ahmednagar College, Pune University",
     year: "2021",
   },
-]
+];
 
 export const certifications = [
   "Full Stack Developer Certification — QSpider",
   "Junior Software Developer — The American India Foundation (AIF)",
-]
+];
